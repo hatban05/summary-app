@@ -1,0 +1,5 @@
+streamlit 
+kiwipiepy 
+scikit-learn 
+kss 
+numpy
